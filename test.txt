@@ -1,2 +1,6 @@
 hello Bill
+<<<<<<< Updated upstream
 How are you tomorrow
+=======
+How are you today
+>>>>>>> Stashed changes
